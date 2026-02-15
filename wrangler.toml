@@ -1,3 +1,3 @@
 name = "Endy的个人博客"
 compatibility_date = "2026-02-16"
-assets = { directory = "./.vitepress/dist" }
+assets = { directory = "./docs/.vitepress/dist" }
