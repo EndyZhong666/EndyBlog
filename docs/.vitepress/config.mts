@@ -16,8 +16,17 @@ export default defineConfig({
 
         sidebar: [
             {
+                text:'运维相关',
                 items: [
-                    {text: 'Windows Server运维笔记', link: '/wsdocs/WindowsServerDOCS'},
+                    {text: 'Windows Server运维', link: '/wsdocs/WindowsServerDOCS'},
+                    {text: 'Linux运维', link: '/linuxdocs/linuxdocs'},
+                    {text: '数据通信', link: '/datacomdocs/datacom'},
+                ]
+            },
+            {
+                text:'开发相关',
+                items: [
+                    {text: 'SQL',link: '/sqldocs/sqldocs'}
                 ]
             }
         ],

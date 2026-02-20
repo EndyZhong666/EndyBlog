@@ -15,9 +15,14 @@ features:
   - title: Windows Server运维
     details: Windows Server操作系统的基本运维技术
     link: /wsdocs/WindowsServerDOCS
-  - title: DataCom数据通信
+  - title: 数据通信
+    link: /datacomdocs/datacom
     details: 路由交换等技术
   - title: Linux运维
+    link: /linuxdocs/linuxdocs
     details: 基于Linux Kernel的操作系统的基本运维技术
+  - title: 数据库SQL
+    link: /sqldocs/sqldocs
+    details: SQL Server,Oracle,MySQL,PostgreSQL
 ---
 
