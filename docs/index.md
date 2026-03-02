@@ -20,9 +20,12 @@ features:
     details: 路由交换等技术
   - title: Linux运维
     link: /linuxdocs/linuxdocs
-    details: 基于Linux Kernel的操作系统的基本运维技术
+    details: 基于Linux Kernel的发行版系统基本运维技术
   - title: 数据库SQL
     link: /sqldocs/sqldocs
-    details: SQL Server,Oracle,MySQL,PostgreSQL
+    details: SQL Server
+  - title: Python
+    link: /python/pythondocs
+    details: Python基础及常用包
 ---
 

@@ -3,10 +3,10 @@ import {defineConfig} from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     sitemap: {
-        hostname: 'https://endyzhong.me'
+        hostname: 'https://blog.endyzhong.me'
     },
     title: "Endy的个人博客",
-    description: "专注于分享Linux和开发等技术",
+    description: "技术学习记录",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
@@ -26,7 +26,10 @@ export default defineConfig({
             {
                 text:'开发相关',
                 items: [
-                    {text: 'SQL',link: '/sqldocs/sqldocs'}
+                    {text: 'SQL',link: '/sqldocs/sqldocs'},
+                    {text: 'Python',link: '/python/pythondocs'},
+                    {text: 'C#'},
+                    {text: 'TypeScript'},
                 ]
             }
         ],

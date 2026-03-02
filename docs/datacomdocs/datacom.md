@@ -16,7 +16,7 @@ info-center source DS channel console trap state off
 
 - 数据链路层
 
-  常见协议:Ethernet、IEEE 802.11(WIFI)、PPP、VLAN、STP
+  常见协议:IEEE 802.3(Ethernet)、IEEE 802.11(WLAN)、PPP、VLAN、STP
 
 
 
