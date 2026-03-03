@@ -1,3 +1,8 @@
+---
+title: Windows Server
+description: Windows Server学习记录
+---
+
 > [!Tip]
 >
 > 服务器操作系统:Windows Server 2022 DataCenter

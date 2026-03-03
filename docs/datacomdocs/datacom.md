@@ -1,4 +1,7 @@
-info-center source DS channel console trap state off
+---
+title: 数据通信
+description: 基于华为设备的数据通信学习记录
+---
 
 ## 现代数据通信的核心标准架构TCP/IP模型
 
@@ -748,3 +751,5 @@ NFV（Network Functions Virtualization，网络功能虚拟化）是通过使用
 - 降低成本 (CAPEX/OPEX)：使用通用服务器代替昂贵的专用设备，减少机房空间和能耗。
 - 灵活部署：以前部署一个防火墙要走采购、物流、上架流程（数周），现在点点鼠标，几分钟内就能拉起一个 vFW。
 - 弹性扩缩容：双 11 流量大时，自动增加 VNF 实例；流量低谷时，自动关闭以节省资源。
+
+info-center source DS channel console trap state off

@@ -1,3 +1,8 @@
+---
+title: Linux
+description: 基于Ubuntu的Linux发行版运维学习记录
+---
+
 ## 现代Linux发行版的根目录下的子目录分类
 
 ```bash

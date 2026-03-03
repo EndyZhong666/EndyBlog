@@ -1,3 +1,8 @@
+---
+title: SQL
+description: SQL学习记录
+---
+
 ## 数据库操作
 
 ### 创建数据库
